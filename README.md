@@ -1,10 +1,10 @@
 # PSAC - PS avatar creator:
-much easier to create custom avatars for the PS
+python script to make it easier to create costume avatars
 # requirements:
 1. python 3
 2. wand
 3. in windows "ImageMagick" you to install it follow the instruction from this link "https://docs.wand-py.org/en/latest/guide/install.html#install-imagemagick-on-windows" and on Linux "libmagickwand-dev" or you can just use the colab
-# useage:
+# How to use:
 you have 2 options:
 1. running locally on your computer
 2. use google colab
@@ -17,5 +17,5 @@ you have 2 options:
 6. the program will close and the folder will populate with the avatar file.
 #google colab
 1. run the cells
-2. on the third cell upload the image (the program assume you are using .png file, rename the extension if needed the program will reencode it as a real png file)
+2. on the third cell upload the image (the program assume you are using a .png file, rename the extension if needed the program will reencode it as a real png file)
 3. wait for it to finish and using the next cell download all the images as a zip file
