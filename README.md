@@ -1,5 +1,5 @@
 # PSAC - PS avatar creator:
-python script to make it easier to create costume avatars
+a small python script to make it easier to create costume avatars
 # requirements:
 1. python 3
 2. wand
