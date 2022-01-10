@@ -15,7 +15,7 @@ you have 2 options:
 4. rename it to "avatar.png" (The program assume you using a .png file and will crash if you use another extension, you can just change the extension to .png and the program will convert it to real png when needed)
 5. after you start the program you can just type the path to the image or just drag and drop the image on the console.
 6. the program will close and the folder will populate with the avatar file.
-# google colab
+# running on the cloud using google colab:
 1. run the cells
 2. on the third cell upload the image (the program assume you are using a .png file, rename the extension if needed the program will reencode it as a real png file)
 3. wait for it to finish and using the next cell download all the images as a zip file
